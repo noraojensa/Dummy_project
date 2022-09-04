@@ -40,7 +40,7 @@ function PokemonCard() {
         //clears input box
         setPokemonName("");
     }
-
+dhuwhduhd här är det konstiga ändringar som inte gör ngt
     const [currentNumber, setCurrentNumber] = useState(0);
     const [correctNumberOfPokemons, setCorrectNumberOfPokemons] = useState(0);
 
