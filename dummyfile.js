@@ -23,9 +23,9 @@ function PokemonCard() {
       }
 
     <requirement id = "REQ123"
-                source="jsiwj">
+                source="nora">
         
-    Här är ett requirement REVISIONED VERSION!!!!
+    Här är det nya fantastiska requirementet
     </requirement>
 
     const [pokemonImage, setPokemonImage] = useState("Gen1/1.png")
