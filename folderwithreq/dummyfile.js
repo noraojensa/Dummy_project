@@ -22,7 +22,7 @@ function PokemonCard() {
         }
       }
 
-    <requirement id = "REQ123"
+    <requirement id = "REQ222"
                 source="nora">
         
     Här är det nya fantastiska requirementet
