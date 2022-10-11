@@ -28,6 +28,12 @@ function PokemonCard() {
     Här är det nya fantastiska requirementet
     </requirement>
 
+    <requirement id = "REQ345"
+                source="audur">
+        
+    Second requirement in the same file
+    </requirement>
+
     const [pokemonImage, setPokemonImage] = useState("Gen1/1.png")
     const handleImageSwitch = () => {
         console.log(pokemonImage);
