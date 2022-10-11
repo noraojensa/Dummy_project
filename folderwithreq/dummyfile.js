@@ -21,17 +21,17 @@ function PokemonCard() {
             setCorrectNumberOfPokemons(correctNumberOfPokemons + 1);
         }
       }
+    
+    <requirement id = "REQ345"
+                source="audur">
+        
+    Second requirement in the same file
+    </requirement>
 
     <requirement id = "REQ666"
                 source="nora">
         
     Här är det nya fantastiska requirementet
-    </requirement>
-
-    <requirement id = "REQ345"
-                source="audur">
-        
-    Second requirement in the same file
     </requirement>
 
     const [pokemonImage, setPokemonImage] = useState("Gen1/1.png")
