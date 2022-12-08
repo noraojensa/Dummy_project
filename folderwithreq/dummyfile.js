@@ -34,6 +34,12 @@ function PokemonCard() {
     Här är det nya fantastiska requirementet
     </requirement>
 
+    <requirement id = "REQ100"
+                source="exmaple-source">
+        
+    Here is a new requirement
+    </requirement>
+
     const [pokemonImage, setPokemonImage] = useState("Gen1/1.png")
     const handleImageSwitch = () => {
         console.log(pokemonImage);
