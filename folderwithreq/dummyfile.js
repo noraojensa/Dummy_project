@@ -37,7 +37,7 @@ function PokemonCard() {
     <requirement id = "REQ100"
                 source="exmaple-source">
         
-    Here is a new requirement
+    Here is an updated requirement
     </requirement>
 
     const [pokemonImage, setPokemonImage] = useState("Gen1/1.png")
